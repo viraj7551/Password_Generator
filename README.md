@@ -7,3 +7,9 @@ Application Helps in Generating Password
  - Javascript
 
 # Images
+<img src="./images/PassGen1.png"/>
+<img src="./images/PassGen2.png"/>
+<img src="./images/PassGen3.png"/>
+<img src="./images/PassGen4.png"/>
+<img src="./images/PassGen5.png"/>
+
