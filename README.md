@@ -5,6 +5,9 @@ Application Helps in Generating Password
  - HTML
  - CSS
  - Javascript
+ - Apache 2
+ - Vagrant
+ - Virtualization
 
 # Images
 <img src="./images/PassGen1.png"/>
