@@ -1,9 +1,6 @@
 # Password_Generator
 Application Helps in Generating Password
 
-# Live Link
-http://192.168.1.80/
-
 # Technologies
  - HTML
  - CSS
